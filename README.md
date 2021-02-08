@@ -15,5 +15,5 @@ LeNet-5 CNN architecture is made up of 7 layers. The layer composition consists 
 ![alt text](https://github.com/niranjana98/GTSRB-Recognition/blob/main/Model.png)
 ## References
 1. https://benchmark.ini.rub.de/gtsrb_news.html
-2. Y. Lecun, L. Bottou, Y. Bengio and P. Haffner, "Gradient-based learning applied to document recognition," in Proceedings of the IEEE, vol. 86, no. 11, pp. 2278-2324, Nov. 1998
+2. https://ieeexplore.ieee.org/document/726791
 3. https://towardsdatascience.com/understanding-and-implementing-lenet-5-cnn-architecture-deep-learning-a2d531ebc342
